@@ -1,0 +1,17 @@
+.main-wrapper {
+  position: fixed;
+  margin: 10px;
+  margin-left: 270px;
+  padding: 10px;
+  border: 2px solid red;
+  width: 40%;
+  border-radius: 10px;
+  background: #ffffff;
+  section {
+    background-color: #eff1f1;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    // width: 50%;
+  }
+}
